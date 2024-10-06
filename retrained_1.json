@@ -1,849 +1,292 @@
 {
     "questions": [
       {
-        "original": {
+        
           "question": "What is the smallest planet in our solar system?",
           "answer": "Mercury is the smallest planet in our solar system."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "How does the size of Mercury compare to Earth's Moon?",
           "answer": "Mercury is only slightly larger than Earth's Moon."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "How much brighter is sunlight on Mercury compared to Earth?",
           "answer": "Sunlight on Mercury is up to seven times brighter than on Earth."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "What are the temperature extremes on Mercury?",
           "answer": "Daytime temperatures on Mercury can reach 800°F (430°C), while nighttime temperatures can drop to -290°F (-180°C)."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "Why isn’t Mercury the hottest planet despite being closest to the Sun?",
           "answer": "Venus is the hottest planet due to its dense atmosphere, which traps heat more effectively than Mercury's lack of atmosphere."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "How long does it take Mercury to orbit the Sun?",
           "answer": "Mercury orbits the Sun every 88 Earth days."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "How long is a solar day on Mercury?",
           "answer": "A solar day on Mercury lasts 176 Earth days."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "What is the composition of Mercury's core?",
           "answer": "Mercury has a large metallic core, making up about 85% of its radius, and it is partly molten or liquid."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "What are the 'crater rays' on Mercury's surface?",
           "answer": "Crater rays are bright streaks formed when an asteroid or comet strikes Mercury’s surface, scattering reflective crushed material."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "Can Mercury have water ice?",
           "answer": "Yes, water ice may exist in deep craters at Mercury’s poles in regions that are permanently shadowed, despite the extreme temperatures on other parts of the planet."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "Which planet is the second from the Sun?",
           "answer": "Venus is the second planet from the Sun."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "What is Earth's closest planetary neighbor?",
           "answer": "Venus is Earth's closest planetary neighbor."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "What is the third brightest object in the sky after the Sun and the Moon?",
           "answer": "Venus is the third brightest object in the sky after the Sun and Moon."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "How does Venus spin compared to most planets?",
           "answer": "Venus spins slowly in the opposite direction from most planets."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "Why is Venus sometimes called Earth's evil twin?",
           "answer": "Venus is similar in structure and size to Earth, and its thick atmosphere makes it extremely hot, earning it the nickname 'Earth's evil twin.'"
-        }
+        
       },
       {
-        "original": {
+        
           "question": "What makes Venus the hottest planet in our solar system?",
           "answer": "Venus has a thick atmosphere that traps heat in a runaway greenhouse effect, making it the hottest planet in our solar system."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "What is Venus' average distance from the Sun?",
           "answer": "Venus orbits the Sun from an average distance of 67 million miles (108 million kilometers)."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "How long does it take for sunlight to travel from the Sun to Venus?",
           "answer": "It takes sunlight about six minutes to travel from the Sun to Venus."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "How does Venus' size compare to Earth's?",
           "answer": "Venus' diameter is about 7,521 miles (12,104 kilometers), which is slightly smaller than Earth's diameter of 7,926 miles (12,756 kilometers)."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "Why did the ancients think Venus was two different objects?",
           "answer": "Ancients thought Venus was two different objects, a morning star and an evening star, due to the way it appears in the sky at different times."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "What would it be like to spend a day on Venus?",
           "answer": "Spending a day on Venus would be disorienting, with extremely high temperatures around 900 degrees Fahrenheit (475 Celsius), and a day that lasts 243 Earth days."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "How long is a day on Venus compared to a Venusian year?",
           "answer": "A day on Venus lasts 243 Earth days, which is longer than a year on Venus, which takes only 225 Earth days."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "Why does the Sun rise in the west and set in the east on Venus?",
           "answer": "On Venus, the Sun rises in the west and sets in the east because Venus spins in the opposite direction compared to Earth."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "Why doesn't Venus have seasons like Earth?",
           "answer": "Venus doesn’t have noticeable seasons because its axis tilt is only three degrees, unlike Earth's 23-degree tilt."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "How do Venus and Earth compare in structure?",
           "answer": "Venus and Earth have similar structures, with iron cores surrounded by hot rock mantles and a thin rocky crust."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "What is plate tectonics and how does it relate to Venus?",
           "answer": "Plate tectonics is the process of continents moving and reshaping the surface of a planet. Venus may have experienced subduction, a key part of tectonics."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "How does Earth's tilt affect its seasons?",
           "answer": "Earth's axis is tilted 23.4 degrees, causing different parts of the planet to receive varying amounts of sunlight, which leads to the changing seasons."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "What are the main layers of Earth?",
           "answer": "Earth is composed of four main layers: the inner core, outer core, mantle, and crust."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "How long does it take for light from the Sun to reach Earth?",
           "answer": "It takes about eight minutes for sunlight to travel from the Sun to Earth."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "What is the equatorial diameter of Earth?",
           "answer": "The equatorial diameter of Earth is 7,926 miles (12,760 kilometers)."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "Why is Mars one of the most explored bodies in our solar system?",
           "answer": "Mars is one of the most explored bodies because NASA has sent multiple missions and rovers to study its surface, finding evidence of a wetter and warmer past."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "Why is Mars called the 'Red Planet'?",
           "answer": "Mars is called the 'Red Planet' because its surface is covered in iron oxide, or rust, which gives it a reddish appearance."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "How many moons does Mars have?",
           "answer": "Mars has two small moons, Phobos and Deimos, which are likely captured asteroids."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "How far is Mars from the Sun?",
           "answer": "Mars is about 142 million miles (228 million kilometers) from the Sun, which is 1.5 astronomical units (AU)."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "How long does it take sunlight to reach Mars?",
           "answer": "It takes sunlight approximately 13 minutes to travel from the Sun to Mars."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "What is the core of Mars made of?",
           "answer": "Mars has a dense core made of iron, nickel, and sulfur, with a radius between 930 and 1,300 miles (1,500 to 2,100 kilometers)."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "What is Mars' atmosphere made of?",
           "answer": "Mars' atmosphere is composed mainly of carbon dioxide, nitrogen, and argon gases."
-        }
+        
       },
       {
-        "original": {
+        
           "question": "What is the range of temperatures on Mars?",
           "answer": "Temperatures on Mars can range from 70 degrees Fahrenheit (20 degrees Celsius) during the day to -225 degrees Fahrenheit (-153 degrees Celsius) at night."
-        }
+        
       },
       {
-        "original": {
-          "question": "Why does Mars' sky appear hazy and red?",
-          "answer": "Mars' sky appears hazy and red due to the suspended dust in the thin atmosphere, which scatters light differently than Earth's atmosphere."
-        }
+        "question": "What is the core of Mars made of?",
+        "answer": "Mars has a dense core made of iron, nickel, and sulfur, with a radius between 930 and 1,300 miles (1,500 to 2,100 kilometers)."
       },
       {
-        "original": {
-          "question": "What is the size of Mars compared to Earth?",
-          "answer": "Mars has a radius of 2,106 miles (3,390 kilometers), which is about half the size of Earth."
-        }
+        "question": "What is Mars' atmosphere made of?",
+        "answer": "Mars' atmosphere is composed mainly of carbon dioxide, nitrogen, and argon gases."
       },
       {
-        "original": {
-          "question": "What are Jupiter's stripes and swirls made of?",
-          "answer": "Jupiter's stripes and swirls are made of cold, windy clouds of ammonia and water, floating in an atmosphere of hydrogen and helium."
-        }
+        "question": "What is the range of temperatures on Mars?",
+        "answer": "Temperatures on Mars can range from 70 degrees Fahrenheit (20 degrees Celsius) during the day to -225 degrees Fahrenheit (-153 degrees Celsius) at night."
       },
       {
-        "original": {
-          "question": "What is the Great Red Spot on Jupiter?",
-          "answer": "The Great Red Spot is a massive storm on Jupiter that is larger than Earth and has been active for hundreds of years."
-        }
+        "question": "Why does Mars' sky appear hazy and red?",
+        "answer": "Mars' sky appears hazy and red due to the suspended dust in the thin atmosphere, which scatters light differently than Earth's atmosphere."
       },
       {
-        "original": {
-          "question": "How many moons does Jupiter have?",
-          "answer": "Jupiter has 95 moons that are officially recognized by the International Astronomical Union."
-        }
+        "question": "What is the size of Mars compared to Earth?",
+        "answer": "Mars has a radius of 2,106 miles (3,390 kilometers), which is about half the size of Earth."
       },
       {
-        "original": {
-          "question": "What are Jupiter's four largest moons called?",
-          "answer": "Jupiter's four largest moons are called the Galilean satellites: Io, Europa, Ganymede, and Callisto."
-        }
+        "question": "What are Jupiter's stripes and swirls made of?",
+        "answer": "Jupiter's stripes and swirls are made of cold, windy clouds of ammonia and water, floating in an atmosphere of hydrogen and helium."
       },
       {
-        "original": {
-          "question": "How big is Jupiter compared to Earth?",
-          "answer": "Jupiter is 11 times wider than Earth, with a radius of 43,440.7 miles (69,911 kilometers)."
-        }
+        "question": "What is the Great Red Spot on Jupiter?",
+        "answer": "The Great Red Spot is a massive storm on Jupiter that is larger than Earth and has been active for hundreds of years."
       },
       {
-        "original": {
-          "question": "How long does it take for Jupiter to orbit the Sun?",
-          "answer": "Jupiter takes about 12 Earth years (4,333 Earth days) to make a complete orbit around the Sun."
-        }
+        "question": "How many moons does Jupiter have?",
+        "answer": "Jupiter has 95 moons that are officially recognized by the International Astronomical Union."
       },
       {
-        "original": {
-          "question": "What is Jupiter's atmosphere primarily made of?",
-          "answer": "Jupiter's atmosphere is mostly made of hydrogen and helium."
-        }
+        "question": "What are Jupiter's four largest moons called?",
+        "answer": "Jupiter's four largest moons are called the Galilean satellites: Io, Europa, Ganymede, and Callisto."
       },
       {
-        "original": {
-          "question": "How fast do winds on Jupiter blow?",
-          "answer": "Winds on Jupiter can reach speeds of up to 335 miles per hour (539 kilometers per hour) at the equator."
-        }
+        "question": "How big is Jupiter compared to Earth?",
+        "answer": "Jupiter is 11 times wider than Earth, with a radius of 43,440.7 miles (69,911 kilometers)."
       },
       {
-        "original": {
-          "question": "Why do Jupiter's bands and belts flow in opposite directions?",
-          "answer": "Jupiter's fast rotation creates strong jet streams, causing the dark belts and light zones to flow east and west in opposite directions."
-        }
+        "question": "How long does it take for Jupiter to orbit the Sun?",
+        "answer": "Jupiter takes about 12 Earth years (4,333 Earth days) to make a complete orbit around the Sun."
       },
       {
-        "original": {
-          "question": "How long does one day on Jupiter last?",
-          "answer": "One day on Jupiter lasts about 10 Earth hours, which is the time it takes for Jupiter to complete one rotation."
-        }
+        "question": "What is Jupiter's atmosphere primarily made of?",
+        "answer": "Jupiter's atmosphere is mostly made of hydrogen and helium."
       },
-    {
-      "original": {
-        "question": "What position does Saturn hold in the solar system?",
-        "answer": "Saturn is the sixth planet from the Sun."
-      }
-    },
-    {
-      "original": {
-        "question": "What is Saturn primarily made of?",
-        "answer": "Saturn is made mostly of hydrogen and helium."
-      }
-    },
-    {
-      "original": {
-        "question": "How do Saturn's rings compare to those of other planets?",
-        "answer": "Saturn's rings are the most spectacular and complex of any planet in the solar system."
-      }
-    },
-    {
-      "original": {
-        "question": "What is unique about Saturn's moon Titan?",
-        "answer": "Saturn's moon Titan has methane lakes and is covered by a thick, smoggy atmosphere."
-      }
-    },
-    {
-      "original": {
-        "question": "How wide is Saturn compared to Earth?",
-        "answer": "Saturn is about 9 times wider than Earth, with an equatorial diameter of 74,897 miles (120,500 kilometers)."
-      }
-    },
-    {
-      "original": {
-        "question": "How far is Saturn from the Sun?",
-        "answer": "Saturn is about 886 million miles (1.4 billion kilometers) from the Sun, or 9.5 astronomical units."
-      }
-    },
-    {
-      "original": {
-        "question": "How long is a day on Saturn?",
-        "answer": "A day on Saturn lasts only 10.7 hours."
-      }
-    },
-    {
-      "original": {
-        "question": "How many moons does Saturn have?",
-        "answer": "As of June 8, 2023, Saturn has 146 moons."
-      }
-    },
-    {
-      "original": {
-        "question": "What are Saturn's rings made of?",
-        "answer": "Saturn's rings are made of billions of small chunks of ice and rock, coated with materials like dust."
-      }
-    },
-    {
-      "original": {
-        "question": "How fast are the winds in Saturn's upper atmosphere?",
-        "answer": "Winds in Saturn's upper atmosphere can reach speeds of up to 1,600 feet per second (500 meters per second)."
-      }
-    },
-
-    {
-        "original": {
-          "question": "What position does Saturn hold in the solar system?",
-          "answer": "Saturn is the sixth planet from the Sun."
-        }
-      },
-      {
-        "original": {
-          "question": "What is Saturn primarily made of?",
-          "answer": "Saturn is made mostly of hydrogen and helium."
-        }
-      },
-      {
-        "original": {
-          "question": "How do Saturn's rings compare to those of other planets?",
-          "answer": "Saturn's rings are the most spectacular and complex of any planet in the solar system."
-        }
-      },
-      {
-        "original": {
-          "question": "What is unique about Saturn's moon Titan?",
-          "answer": "Saturn's moon Titan has methane lakes and is covered by a thick, smoggy atmosphere."
-        }
-      },
-      {
-        "original": {
-          "question": "How wide is Saturn compared to Earth?",
-          "answer": "Saturn is about 9 times wider than Earth, with an equatorial diameter of 74,897 miles (120,500 kilometers)."
-        }
-      },
-      {
-        "original": {
-          "question": "How far is Saturn from the Sun?",
-          "answer": "Saturn is about 886 million miles (1.4 billion kilometers) from the Sun, or 9.5 astronomical units."
-        }
-      },
-      {
-        "original": {
-          "question": "How long is a day on Saturn?",
-          "answer": "A day on Saturn lasts only 10.7 hours."
-        }
-      },
-      {
-        "original": {
-          "question": "How many moons does Saturn have?",
-          "answer": "As of June 8, 2023, Saturn has 146 moons."
-        }
-      },
-      {
-        "original": {
-          "question": "What are Saturn's rings made of?",
-          "answer": "Saturn's rings are made of billions of small chunks of ice and rock, coated with materials like dust."
-        }
-      },
-      {
-        "original": {
-          "question": "How fast are the winds in Saturn's upper atmosphere?",
-          "answer": "Winds in Saturn's upper atmosphere can reach speeds of up to 1,600 feet per second (500 meters per second)."
-        }
-      },
-      {
-        "original": {
-          "question": "What is the position of Uranus in the solar system?",
-          "answer": "Uranus is the seventh planet from the Sun."
-        }
-      },
-      {
-        "original": {
-          "question": "How does Uranus' rotation differ from other planets?",
-          "answer": "Uranus appears to spin sideways, rotating at a nearly 90-degree angle from the plane of its orbit."
-        }
-      },
-      {
-        "original": {
-          "question": "How many rings and moons does Uranus have?",
-          "answer": "Uranus is surrounded by 13 faint rings and 28 small moons."
-        }
-      },
-      {
-        "original": {
-          "question": "Who discovered Uranus and when?",
-          "answer": "Uranus was discovered in 1781 by astronomer William Herschel."
-        }
-      },
-      {
-        "original": {
-          "question": "What is the equatorial diameter of Uranus compared to Earth?",
-          "answer": "Uranus has an equatorial diameter of 31,763 miles (51,118 kilometers), which is four times wider than Earth."
-        }
-      },
-      {
-        "original": {
-          "question": "How far is Uranus from the Sun?",
-          "answer": "Uranus is 1.8 billion miles (2.9 billion kilometers) from the Sun, or about 19 astronomical units."
-        }
-      },
-      {
-        "original": {
-          "question": "How long is a day on Uranus?",
-          "answer": "A day on Uranus takes about 17 hours."
-        }
-      },
-      {
-        "original": {
-          "question": "How long does Uranus take to orbit the Sun?",
-          "answer": "Uranus takes about 84 Earth years (30,687 Earth days) to orbit the Sun."
-        }
-      },
-      {
-        "original": {
-          "question": "What causes Uranus' extreme seasons?",
-          "answer": "Uranus' unique tilt of 97.77 degrees causes it to have the most extreme seasons in the solar system."
-        }
-      },
-      {
-        "original": {
-          "question": "What is Uranus made of?",
-          "answer": "Most of Uranus' mass is made up of a hot dense fluid of water, methane, and ammonia above a small rocky core."
-        }
-      },{
-        "questions": [
-          {
-            "original": {
-              "question": "What is Neptune's position in the solar system?",
-              "answer": "Neptune is the eighth and most distant planet in our solar system."
-            }
-          },
-          {
-            "original": {
-              "question": "How does Neptune's distance from the Sun compare to Earth's?",
-              "answer": "Neptune is more than 30 times as far from the Sun as Earth."
-            }
-          },
-          {
-            "original": {
-              "question": "Why can't Neptune be seen with the naked eye?",
-              "answer": "Neptune is the only planet in our solar system not visible to the naked eye due to its great distance from the Sun."
-            }
-          },
-          {
-            "original": {
-              "question": "How long does it take Neptune to complete one orbit around the Sun?",
-              "answer": "Neptune completes one orbit around the Sun in about 165 Earth years."
-            }
-          },
-          {
-            "original": {
-              "question": "What is Neptune's equatorial diameter compared to Earth?",
-              "answer": "Neptune has an equatorial diameter of 30,775 miles (49,528 kilometers), which is about four times wider than Earth."
-            }
-          },
-          {
-            "original": {
-              "question": "How far is Neptune from the Sun?",
-              "answer": "Neptune is 2.8 billion miles (4.5 billion kilometers) from the Sun, or 30 astronomical units away."
-            }
-          },
-          {
-            "original": {
-              "question": "How long does it take for sunlight to reach Neptune?",
-              "answer": "It takes sunlight about 4 hours to travel from the Sun to Neptune."
-            }
-          },
-          {
-            "original": {
-              "question": "What are the names of Neptune's rings?",
-              "answer": "Neptune's rings are named Galle, Leverrier, Lassell, Arago, and Adams."
-            }
-          },
-          {
-            "original": {
-              "question": "What is Neptune primarily made of?",
-              "answer": "Neptune is made of a hot dense fluid of icy materials like water, methane, and ammonia above a small, rocky core."
-            }
-          },
-          {
-            "original": {
-              "question": "How long is a day on Neptune?",
-              "answer": "A day on Neptune takes about 16 hours."
-            }
-          }
-        ]
-      },
-      {
-        "original": {
-          "question": "What are the three criteria that define a planet according to the IAU?",
-          "answer": "A planet must orbit its host star, be mostly round, and have cleared its orbit of other objects of similar size."
-        }
-      },
-      {
-        "original": {
-          "question": "Why was Pluto reclassified as a dwarf planet?",
-          "answer": "Pluto was reclassified as a dwarf planet in 2006 because it does not clear other objects of similar size from its orbit."
-        }
-      },
-      {
-        "original": {
-          "question": "Who discovered Pluto and when?",
-          "answer": "Pluto was discovered by Clyde Tombaugh in 1930."
-        }
-      },
-      {
-        "original": {
-          "question": "What caused outrage when Pluto was reclassified as a dwarf planet?",
-          "answer": "The reclassification of Pluto as a dwarf planet caused widespread outrage because it had long been considered the ninth planet."
-        }
-      },
-      {
-        "original": {
-          "question": "When did NASA’s New Horizons spacecraft make its historic flight through the Pluto system?",
-          "answer": "NASA’s New Horizons spacecraft flew through the Pluto system on July 14, 2015."
-        }
-      },
-      {
-        "original": {
-          "question": "What did the New Horizons mission contribute to our understanding of Pluto?",
-          "answer": "The New Horizons mission provided the first close-up images of Pluto and its moons, transforming our understanding of these distant worlds."
-        }
-      },
-      {
-        "original": {
-          "question": "What is Ceres, and where is it located?",
-          "answer": "Ceres is the largest object in the asteroid belt between Mars and Jupiter, and it is the only dwarf planet located in the inner solar system."
-        }
-      },
-      {
-        "original": {
-          "question": "Was Ceres always considered a dwarf planet?",
-          "answer": "No, like Pluto, Ceres was once classified as a planet before being reclassified as a dwarf planet."
-        }
-      },
-      {
-        "original": {
-          "question": "Which spacecraft was the first to visit Ceres?",
-          "answer": "NASA’s Dawn mission was the first spacecraft to visit the dwarf planet Ceres."
-        }
-      },
-      {
-        "original": {
-          "question": "Where is Pluto located in the solar system?",
-          "answer": "Pluto is located in the distant Kuiper Belt, beyond the orbit of Neptune."
-        }
-      },
-
-    {
-        "original": {
-          "question": "Why do all moons share the same name as our Moon?",
-          "answer": "People didn't know other moons existed until Galileo Galilei discovered four moons orbiting Jupiter in 1610, so they called our Moon just 'the Moon'."
-        }
-      },
-      {
-        "original": {
-          "question": "What is the Latin name for the Moon, and how is it used?",
-          "answer": "The Latin name for the Moon is 'Luna', and it is used as the adjective for Moon-related things, such as 'lunar'."
-        }
-      },
-      {
-        "original": {
-          "question": "How does the size of the Moon compare to Earth?",
-          "answer": "The Moon's radius is about 1,080 miles (1,740 kilometers), which is less than a third of Earth's width."
-        }
-      },
-      {
-        "original": {
-          "question": "How far is the Moon from Earth?",
-          "answer": "The Moon is an average of 238,855 miles (384,400 kilometers) away from Earth."
-        }
-      },
-      {
-        "original": {
-          "question": "How does the Moon's distance from Earth change over time?",
-          "answer": "The Moon is slowly moving away from Earth, getting about an inch farther away each year."
-        }
-      },
-      {
-        "original": {
-          "question": "Why do we always see the same side of the Moon from Earth?",
-          "answer": "The Moon rotates at the same rate that it revolves around Earth (synchronous rotation), so the same hemisphere always faces Earth."
-        }
-      },
-      {
-        "original": {
-          "question": "What causes the Moon's phases?",
-          "answer": "The Moon's phases are caused by different parts of the Moon being illuminated by the Sun as it orbits Earth."
-        }
-      },
-      {
-        "original": {
-          "question": "How long does it take the Moon to orbit Earth?",
-          "answer": "The Moon makes a complete orbit around Earth in 27 Earth days."
-        }
-      },
-      {
-        "original": {
-          "question": "How did the Moon form?",
-          "answer": "The Moon likely formed after a Mars-sized body collided with Earth, and the resulting debris accumulated to form our natural satellite."
-        }
-      },
-      {
-        "original": {
-          "question": "What did NASA's SOFIA discover about the Moon in 2020?",
-          "answer": "NASA's SOFIA confirmed the presence of water on the sunlit surface of the Moon in 2020, indicating water may be distributed across the lunar surface."
-        }
-      },
-      {
-        "original": {
-          "question": "What is a periodic comet?",
-          "answer": "A periodic comet orbits the sun and returns to the inner solar system on a regular basis."
-        }
-      },
-      {
-        "original": {
-          "question": "How long does it take Halley's Comet to complete one orbit around the sun?",
-          "answer": "It takes 75–76 years for Halley's Comet to orbit the sun and return to Earth."
-        }
-      },
-      {
-        "original": {
-          "question": "How large is Halley's Comet?",
-          "answer": "Halley's Comet is about 11 kilometers in diameter, comparable in size to the city of Boston."
-        }
-      },
-      {
-        "original": {
-          "question": "What is Halley's Comet made of?",
-          "answer": "Halley's Comet is made up of water and gases like methane, ammonia, and carbon dioxide."
-        }
-      },
-      {
-        "original": {
-          "question": "What happens to Halley's Comet as it approaches the sun?",
-          "answer": "As Halley's Comet approaches the sun, the ice and gases inside it expand and form a tail."
-        }
-      },
-      {
-        "original": {
-          "question": "How many tails does Halley's Comet have?",
-          "answer": "Halley's Comet has two tails: a dust tail and an ion (gas) tail."
-        }
-      },
-      {
-        "original": {
-          "question": "Who predicted the return of Halley's Comet?",
-          "answer": "Edmond Halley predicted the return of Halley's Comet in 1758."
-        }
-      },
-      {
-        "original": {
-          "question": "When was it first proven that some comets are part of our solar system?",
-          "answer": "It was first proven that some comets are part of our solar system when Edmond Halley showed that comets seen in 1531, 1607, and 1682 were actually the same comet."
-        }
-      },
-      {
-        "original": {
-          "question": "When will Halley's Comet next appear?",
-          "answer": "Halley's Comet's next appearance is predicted to be in July 2061."
-        }
-      },
-      {
-        "original": {
-          "question": "How often can Halley's Comet be seen from Earth?",
-          "answer": "Halley's Comet can be seen from Earth roughly every 75–76 years."
-        }
-      },
-      {
-        "original": {
-          "question": "How large is Apophis?",
-          "answer": "Apophis is about 375 meters wide, roughly the size of a cruise liner."
-        }
-      },
-      {
-        "original": {
-          "question": "What is an Aten asteroid?",
-          "answer": "An Aten asteroid has an orbit with a semi-major axis of less than one astronomical unit."
-        }
-      },
-      {
-        "original": {
-          "question": "How often does Apophis orbit the Sun?",
-          "answer": "Apophis completes an orbit around the Sun every 323,513 days."
-        }
-      },
-      {
-        "original": {
-          "question": "When will Apophis make its close pass to Earth?",
-          "answer": "On April 13, 2029, Apophis will pass within 32,000 kilometers of Earth's surface."
-        }
-      },
-      {
-        "original": {
-          "question": "How many people will be able to see Apophis when it passes by Earth in 2029?",
-          "answer": "Apophis will be visible to about two billion people in parts of Asia, Europe, and Africa."
-        }
-      },
-      {
-        "original": {
-          "question": "How close will Apophis pass to Earth in 2036?",
-          "answer": "In 2036, Apophis will pass more than 49 million kilometers from Earth."
-        }
-      },
-      {
-        "original": {
-          "question": "What is the closest Apophis could pass to Earth in 2116?",
-          "answer": "Apophis could pass as close as 150,000 kilometers from Earth in 2116."
-        }
-      },
-      {
-        "original": {
-          "question": "Does Apophis pose any threat to Earth?",
-          "answer": "NASA says that Apophis poses no threat to Earth for at least the next century."
-        }
-      },
-      {
-        "original": {
-          "question": "When was Apophis discovered?",
-          "answer": "Apophis was discovered in 2004."
-        }
-      },
-      {
-        "original": {
-          "question": "What is the mythological origin of the name Apophis?",
-          "answer": "Apophis is also known as Apep, the great serpent and enemy of the Egyptian sun god Ra."
-        }
-      },
-      {
-        "original": {
-          "question": "Where is the asteroid belt located in the solar system?",
-          "answer": "The asteroid belt is located between the orbits of Mars and Jupiter."
-        }
-      },
-      {
-        "original": {
-          "question": "What shape does the asteroid belt take?",
-          "answer": "The asteroid belt is a torus-shaped or disc-shaped region."
-        }
-      },
-      {
-        "original": {
-          "question": "What are asteroids in the asteroid belt made of?",
-          "answer": "The asteroids are composed of carbon-rich materials, ices, and sometimes iron and nickel."
-        }
-      },
-      {
-        "original": {
-          "question": "How old is the asteroid belt?",
-          "answer": "The asteroid belt formed about 4.5 billion years ago, along with the rest of the solar system."
-        }
-      },
-      {
-        "original": {
-          "question": "How many asteroids in the asteroid belt have been identified?",
-          "answer": "Over 600,000 asteroids in the belt have been identified and named."
-        }
-      },
-      {
-        "original": {
-          "question": "What is the largest known asteroid in the asteroid belt?",
-          "answer": "Ceres is the largest known asteroid, measuring 620 miles across."
-        }
-      },
-      {
-        "original": {
-          "question": "Is the asteroid belt densely packed?",
-          "answer": "No, the asteroid belt is not as densely packed as often portrayed in fiction."
-        }
-      },
       {
-        "original": {
-          "question": "What color is the asteroid belt?",
-          "answer": "The asteroid belt is largely empty space, so there isn’t much color to see."
-        }
+        "question": "How fast do winds on Jupiter blow?",
+        "answer": "Winds on Jupiter can reach speeds of up to 335 miles per hour (539 kilometers per hour) at the equator."
       },
       {
-        "original": {
-          "question": "What is the distance between the asteroid belt and the Sun?",
-          "answer": "The asteroid belt exists between 330 million and 480 million kilometers from the Sun."
-        }
+        "question": "Why do Jupiter's bands and belts flow in opposite directions?",
+        "answer": "Jupiter's fast rotation creates strong jet streams, causing the dark belts and light zones to flow east and west in opposite directions."
       },
       {
-        "original": {
-          "question": "What are resonances in the asteroid belt?",
-          "answer": "The asteroid belt exhibits population depletions, or gaps, due to resonances in the mean distances of the asteroids."
-        }
+        "question": "How long does one day on Jupiter last?",
+        "answer": "One day on Jupiter lasts about 10 Earth hours, which is the time it takes for Jupiter to complete one rotation."
       }
     ]
       

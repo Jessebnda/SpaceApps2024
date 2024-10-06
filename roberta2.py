@@ -1,62 +1,29 @@
-from transformers import RobertaForQuestionAnswering, RobertaTokenizer
-from transformers import Trainer, TrainingArguments
+import json
 from datasets import load_dataset
 
-# Load the model and tokenizer
-model = RobertaForQuestionAnswering.from_pretrained("deepset/roberta-base-squad2")
-tokenizer = RobertaTokenizer.from_pretrained("deepset/roberta-base-squad2")
+# Fix the schema of the dataset to match the required structure
+def load_corrected_json(file_path):
+    with open(file_path, 'r') as f:
+        data = json.load(f)
+        corrected_data = []
+        for item in data["questions"]:
+            corrected_data.append({
+                
+                    "question": item["question"],
+                    "answer": item["answer"]
+                }
+            )
+        return corrected_data
 
-# Load the data
-dataset = load_dataset("json", data_files={"train": "Fine_tuning_QA.json", "validation": "Fine_tuning_QA_validation.json"})
+# Load the retrained and validation datasets
+train_data = load_corrected_json("retrained_1.json")
+validation_data = load_corrected_json("validation.json")
 
-def preprocess_function(examples):
-    tokenized_inputs = tokenizer(
-        examples['question'], 
-        examples['context'],  # Use context instead of answer
-        truncation=True, 
-        padding="max_length", 
-        max_length=512  # Adjust max_length according to your needs
-    )
-    
-    start_positions = []
-    end_positions = []
+# Save the corrected data to temporary JSON files to use with load_dataset
+with open("corrected_train.json", 'w') as train_file:
+    json.dump({"questions": train_data}, train_file)
+with open("corrected_validation.json", 'w') as validation_file:
+    json.dump({"questions": validation_data}, validation_file)
 
-    # Iterate through questions
-    for i in range(len(examples['question'])):
-        start_positions.append(examples['answers'][i]['start'])  # Assuming there's only one answer
-        end_positions.append(examples['answers'][i]['end'])
-
-    tokenized_inputs['start_positions'] = start_positions
-    tokenized_inputs['end_positions'] = end_positions
-
-    return tokenized_inputs
-
-# Tokenize the datasets
-tokenized_dataset = dataset.map(preprocess_function, batched=True)
-
-# Verify lengths
-print("Lengths of the examples:")
-for item in tokenized_dataset['train']:
-    print(len(item['input_ids']))
-
-training_args = TrainingArguments(
-    output_dir='./results',
-    evaluation_strategy='epoch',
-    learning_rate=2e-5,
-    per_device_train_batch_size=16,
-    num_train_epochs=2,
-)
-
-# Define the trainer
-trainer = Trainer(
-    model=model,
-    args=training_args,
-    train_dataset=tokenized_dataset['train'],
-    eval_dataset=tokenized_dataset['validation'],
-)
-
-# Train the model
-trainer.train()
-
-# Save the fine-tuned model
-trainer.save_model("./fine_tuned_Roberta")
+# Now use the load_dataset function
+dataset = load_dataset("json", data_files={"train": "corrected_train.json", "validation": "corrected_validation.json"})
