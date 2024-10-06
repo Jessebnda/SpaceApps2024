@@ -1,0 +1,300 @@
+*******************************************************************************
+JPL/HORIZONS               162173 Ryugu (1999 JU3)         2024-Oct-05 23:42:41
+Rec #:  162173 (+COV) Soln.date: 2024-Oct-02_06:52:44   # obs: 5019 (1986-2024)
+ 
+IAU76/J2000 helio. ecliptic osc. elements (au, days, deg., period=Julian yrs):
+ 
+  EPOCH=  2458323.5 ! 2018-Jul-24.00 (TDB)         Residual RMS= .193
+   EC= .1902731156074713   QR= .96321495891815     TP= 2458271.6245037504
+   OM= 251.5892067476047   W=  211.435590325773    IN= 5.884022503443042
+   A= 1.189555364264298    MA= 39.40844953181785   ADIST= 1.415895769610447
+   PER= 1.29743            N= .759673688           ANGMOM= .018419013
+   DAN= 1.36869            DDN= .98636             L= 102.8902766
+   B= -3.0648217           MOID= .0014798          TP= 2018-Jun-02.1245037504
+ 
+Asteroid physical parameters (km, seconds, rotational period in hours):
+   GM= 3.E-8               RAD= .448               ROTPER= 7.63262
+   H= 19.55                G= .150                 B-V= n.a.
+                           ALBEDO= .045            STYP= Cb
+
+Asteroid non-gravitational force model (AMRAT= m^2/kg;A1,A2,A3=au/d^2;R0=au):
+   AMRAT=  0.
+   A1= 0.                  A2= -2.52566223935E-14  A3= 0.
+ Non-standard or simulated/proxy model:
+   ALN=  1.            NK=  0.       NM=  2.       NN=  5.093    R0=  1.
+
+ASTEROID comments: 
+1: soln ref.= JPL#256, PHA  OCC=0       radar( 2 delay, 0 Dop.)
+2: source=ORB; Nongravitational accels. using nonstandard g(r) = (1 au/ r)^2
+*******************************************************************************
+
+
+*******************************************************************************
+Ephemeris / WWW_USER Sat Oct  5 23:42:41 2024 Pasadena, USA      / Horizons    
+*******************************************************************************
+Target body name: 162173 Ryugu (1999 JU3)         {source: JPL#256}
+Center body name: Earth (399)                     {source: DE441}
+Center-site name: (user defined site below)
+*******************************************************************************
+Start time      : A.D. 2024-Oct-05 00:00:00.0000 UT      
+Stop  time      : A.D. 2024-Nov-04 00:00:00.0000 UT      
+Step-size       : 1440 minutes
+*******************************************************************************
+Target pole/equ : undefined
+Target radii    : 0.448 km                                                     
+Center geodetic : 243.42, 33.0, 0.0               {E-lon(deg),Lat(deg),Alt(km)}
+Center cylindric: 243.42, 5354.47479, 3453.95864  {E-lon(deg),Dxy(km),Dz(km)}
+Center pole/equ : ITRF93                          {East-longitude positive}
+Center radii    : 6378.137, 6378.137, 6356.752 km {Equator_a, b, pole_c}       
+Target primary  : Sun
+Vis. interferer : MOON (R_eq= 1737.400) km        {source: DE441}
+Rel. light bend : Sun                             {source: DE441}
+Rel. lght bnd GM: 1.3271E+11 km^3/s^2                                          
+Small-body perts: Yes                             {source: SB441-N16}
+Atmos refraction: NO (AIRLESS)
+RA format       : HMS
+Time format     : CAL 
+Calendar mode   : Mixed Julian/Gregorian
+EOP file        : eop.241004.p241228                                           
+EOP coverage    : DATA-BASED 1962-JAN-20 TO 2024-OCT-04. PREDICTS-> 2024-DEC-27
+Units conversion: 1 au= 149597870.700 km, c= 299792.458 km/s, 1 day= 86400.0 s 
+Table cut-offs 1: Elevation (-90.0deg=NO ),Airmass (>38.000=NO), Daylight (NO )
+Table cut-offs 2: Solar elongation (  0.0,180.0=NO ),Local Hour Angle( 0.0=NO )
+Table cut-offs 3: RA/DEC angular rate (     0.0=NO )                           
+*******************************************************************************
+Initial IAU76/J2000 heliocentric ecliptic osculating elements (au, days, deg.):
+  EPOCH=  2458323.5 ! 2018-Jul-24.00 (TDB)         Residual RMS= .193          
+   EC= .1902731156074713   QR= .96321495891815     TP= 2458271.6245037504      
+   OM= 251.5892067476047   W=  211.435590325773    IN= 5.884022503443042       
+  Equivalent ICRF heliocentric cartesian coordinates (au, au/d):
+   X=-9.631756379626035E-01  Y= 3.796764605475156E-01  Z= 4.890860370798658E-02
+  VX=-8.689470249860609E-03 VY=-1.427373045603103E-02 VZ=-6.557399137047043E-03
+Asteroid physical parameters (km, seconds, rotational period in hours):        
+   GM= 3.E-8               RAD= .448               ROTPER= 7.63262             
+   H= 19.55                G= .150                 B-V= n.a.                   
+                           ALBEDO= .045            STYP= Cb                    
+Asteroid non-gravitational force model (AMRAT= m^2/kg;A1,A2,A3=au/d^2;R0=au):  
+   AMRAT=  0.                                                                  
+   A1= 0.                  A2= -2.52566223935E-14  A3= 0.                      
+ Non-standard or simulated/proxy model:                                        
+   ALN=  1.            NK=  0.       NM=  2.       NN=  5.093    R0=  1.       
+******************************************************************************************************************************************************************************
+ Date__(UT)__HR:MN     R.A._____(ICRF)_____DEC    APmag   S-brt             delta      deldot     S-O-T /r     S-T-O  Sky_motion  Sky_mot_PA  RelVel-ANG  Lun_Sky_Brt  sky_SNR
+******************************************************************************************************************************************************************************
+$$SOE
+ 2024-Oct-05 00:00 *m  07 45 28.24 +26 19 39.6   20.852   6.858  0.56564866276565  -2.3249293   78.3937 /L   69.5942   3.0295116   108.18104   -6.405012         n.a.     n.a.
+ 2024-Oct-06 00:00 *m  07 50 31.35 +25 57 09.2   20.848   6.857  0.56422449912108  -2.1641853   78.1901 /L   69.8245   3.0352898   108.74668   -5.969221         n.a.     n.a.
+ 2024-Oct-07 00:00 *m  07 55 33.04 +25 33 55.5   20.845   6.856  0.56289204086801  -2.0033300   77.9854 /L   70.0515   3.0405778   109.30148   -5.531936         n.a.     n.a.
+ 2024-Oct-08 00:00 *m  08 00 33.23 +25 09 59.4   20.842   6.855  0.56165132896881  -1.8424725   77.7797 /L   70.2752   3.0453769   109.84506   -5.093478         n.a.     n.a.
+ 2024-Oct-09 00:00 *m  08 05 31.87 +24 45 22.1   20.839   6.853  0.56050234005619  -1.6817322   77.5733 /L   70.4954   3.0496896   110.37707   -4.654203         n.a.     n.a.
+ 2024-Oct-10 00:00 *m  08 10 28.89 +24 20 04.6   20.837   6.852  0.55944497984366  -1.5212408   77.3663 /L   70.7118   3.0535199   110.89719   -4.214509         n.a.     n.a.
+ 2024-Oct-11 00:00 *m  08 15 24.25 +23 54 07.9   20.835   6.851  0.55847907467999  -1.3611472   77.1589 /L   70.9244   3.0568732   111.40512   -3.774847         n.a.     n.a.
+ 2024-Oct-12 00:00 *m  08 20 17.90 +23 27 33.4   20.833   6.850  0.55760436029025  -1.2016224   76.9513 /L   71.1329   3.0597559   111.90058   -3.335740         n.a.     n.a.
+ 2024-Oct-13 00:00 *m  08 25 09.81 +23 00 22.1   20.832   6.849  0.55682046719417  -1.0428653   76.7436 /L   71.3372   3.0621742   112.38333   -2.897793         n.a.     n.a.
+ 2024-Oct-14 00:00 *m  08 29 59.93 +22 32 35.2   20.830   6.847  0.55612690352445  -0.8851054   76.5359 /L   71.5371   3.0641323   112.85316   -2.461711         n.a.     n.a.
+ 2024-Oct-15 00:00 *m  08 34 48.26 +22 04 14.1   20.829   6.846  0.55552303810547  -0.7285984   76.3286 /L   71.7324   3.0656297   113.30991   -2.028276         n.a.     n.a.
+ 2024-Oct-16 00:00 *   08 39 34.76 +21 35 19.8   20.829   6.845  0.55500808918438  -0.5736107   76.1217 /L   71.9232   3.0666587   113.75347   -1.598308         n.a.     n.a.
+ 2024-Oct-17 00:00 *   08 44 19.40 +21 05 53.7   20.828   6.843  0.55458112554227  -0.4203927   75.9154 /L   72.1091   3.0672033   114.18375   -1.172578         n.a.     n.a.
+ 2024-Oct-18 00:00 *   08 49 02.19 +20 35 57.1   20.828   6.842  0.55424108474567  -0.2691477   75.7100 /L   72.2901   3.0672405   114.60071   -0.751722         n.a.     n.a.
+ 2024-Oct-19 00:00 *   08 53 43.10 +20 05 31.4   20.828   6.841  0.55398680738857  -0.1200098   75.5056 /L   72.4659   3.0667439   115.00435   -0.336162         n.a.     n.a.
+ 2024-Oct-20 00:00 *   08 58 22.11 +19 34 37.7   20.828   6.839  0.55381707913348   0.0269597   75.3025 /L   72.6365   3.0656893   115.39464   0.0738978         n.a.     n.a.
+ 2024-Oct-21 00:00 *   09 02 59.21 +19 03 17.6   20.829   6.838  0.55373066901151   0.1717568   75.1009 /L   72.8016   3.0640589   115.77158   0.4784337         n.a.     n.a.
+ 2024-Oct-22 00:00 *   09 07 34.40 +18 31 32.4   20.830   6.836  0.55372635517193   0.3144087   74.9010 /L   72.9611   3.0618431   116.13513   0.8775212         n.a.     n.a.
+ 2024-Oct-23 00:00 *   09 12 07.67 +17 59 23.5   20.831   6.835  0.55380293563565   0.4549498   74.7030 /L   73.1149   3.0590409   116.48526   1.2712631         n.a.     n.a.
+ 2024-Oct-24 00:00 *   09 16 39.00 +17 26 52.3   20.832   6.833  0.55395922713016   0.5934051   74.5071 /L   73.2627   3.0556576   116.82195   1.6597397         n.a.     n.a.
+ 2024-Oct-25 00:00 *   09 21 08.41 +16 54 00.2   20.833   6.832  0.55419405732669   0.7297838   74.3136 /L   73.4044   3.0517033   117.14517   2.0429864         n.a.     n.a.
+ 2024-Oct-26 00:00 *   09 25 35.89 +16 20 48.7   20.835   6.830  0.55450625521158   0.8640787   74.1226 /L   73.5399   3.0471909   117.45493   2.4209918         n.a.     n.a.
+ 2024-Oct-27 00:00 *   09 30 01.46 +15 47 18.9   20.837   6.829  0.55489464254993   0.9962698   73.9343 /L   73.6691   3.0421352   117.75122   2.7937070         n.a.     n.a.
+ 2024-Oct-28 00:00 *   09 34 25.11 +15 13 32.5   20.839   6.827  0.55535802769381   1.1263287   73.7489 /L   73.7917   3.0365519   118.03408   3.1610573         n.a.     n.a.
+ 2024-Oct-29 00:00 *   09 38 46.87 +14 39 30.7   20.841   6.825  0.55589520182340   1.2542226   73.5666 /L   73.9078   3.0304580   118.30353   3.5229528         n.a.     n.a.
+ 2024-Oct-30 00:00 *   09 43 06.75 +14 05 14.9   20.843   6.824  0.55650493708000   1.3799168   73.3875 /L   74.0171   3.0238713   118.55963   3.8792953         n.a.     n.a.
+ 2024-Oct-31 00:00 *   09 47 24.77 +13 30 46.3   20.845   6.822  0.55718598579843   1.5033756   73.2117 /L   74.1196   3.0168109   118.80245   4.2299814         n.a.     n.a.
+ 2024-Nov-01 00:00 *m  09 51 40.95 +12 56 06.4   20.848   6.820  0.55793708002640   1.6245628   73.0395 /L   74.2153   3.0092972   119.03205   4.5749008         n.a.     n.a.
+ 2024-Nov-02 00:00 *m  09 55 55.32 +12 21 16.4   20.851   6.819  0.55875693065272   1.7434398   72.8709 /L   74.3040   3.0013522   119.24852   4.9139324         n.a.     n.a.
+ 2024-Nov-03 00:00 *m  10 00 07.91 +11 46 17.6   20.853   6.817  0.55964422568952   1.8599645   72.7060 /L   74.3858   2.9929993   119.45195   5.2469392         n.a.     n.a.
+ 2024-Nov-04 00:00 *m  10 04 18.74 +11 11 11.2   20.856   6.815  0.56059762750732   1.9740892   72.5450 /L   74.4605   2.9842632   119.64245   5.5737624         n.a.     n.a.
+$$EOE
+******************************************************************************************************************************************************************************
+Column meaning:
+ 
+TIME
+
+  Times PRIOR to 1962 are UT1, a mean-solar time closely related to the
+prior but now-deprecated GMT. Times AFTER 1962 are in UTC, the current
+civil or "wall-clock" time-scale. UTC is kept within 0.9 seconds of UT1
+using integer leap-seconds for 1972 and later years.
+
+  Conversion from the internal Barycentric Dynamical Time (TDB) of solar
+system dynamics to the non-uniform civil UT time-scale requested for output
+has not been determined for UTC times after the next July or January 1st.
+Therefore, the last known leap-second is used as a constant over future
+intervals.
+
+  Time tags refer to the UT time-scale conversion from TDB on Earth
+regardless of observer location within the solar system, although clock
+rates may differ due to the local gravity field and no analog to "UT"
+may be defined for that location.
+
+  Any 'b' symbol in the 1st-column denotes a B.C. date. First-column blank
+(" ") denotes an A.D. date.
+ 
+CALENDAR SYSTEM
+
+  Mixed calendar mode was active such that calendar dates after AD 1582-Oct-15
+(if any) are in the modern Gregorian system. Dates prior to 1582-Oct-5 (if any)
+are in the Julian calendar system, which is automatically extended for dates
+prior to its adoption on 45-Jan-1 BC.  The Julian calendar is useful for
+matching historical dates. The Gregorian calendar more accurately corresponds
+to the Earth's orbital motion and seasons. A "Gregorian-only" calendar mode is
+available if such physical events are the primary interest.
+
+  NOTE: "n.a." in output means quantity "not available" at the print-time.
+ 
+SOLAR PRESENCE (OBSERVING SITE)
+  Time tag is followed by a blank, then a solar-presence symbol:
+
+       '*'  Daylight (refracted solar upper-limb on or above apparent horizon)
+       'C'  Civil twilight/dawn
+       'N'  Nautical twilight/dawn
+       'A'  Astronomical twilight/dawn
+       ' '  Night OR geocentric ephemeris
+
+LUNAR PRESENCE (OBSERVING SITE)
+  The solar-presence symbol is immediately followed by a lunar-presence symbol:
+
+       'm'  Refracted upper-limb of Moon on or above apparent horizon
+       ' '  Refracted upper-limb of Moon below apparent horizon OR geocentric
+            ephemeris
+ 
+ 'R.A._____(ICRF)_____DEC' =
+  Astrometric right ascension and declination of the target center with
+respect to the observing site (coordinate origin) in the reference frame of
+the planetary ephemeris (ICRF). Compensated for down-leg light-time delay
+aberration.
+
+  Units: RA  in hours-minutes-seconds of time,    HH MM SS.ff{ffff}
+         DEC in degrees-minutes-seconds of arc,  sDD MN SC.f{ffff}
+ 
+ 'APmag   S-brt' =
+   The asteroids' approximate apparent airless visual magnitude and surface
+brightness using the standard IAU H-G system magnitude model:
+
+   APmag = H + 5*log10(delta) + 5*log10(r) - 2.5*log10((1-G)*phi_1 + G*phi_2)
+
+   For solar phase angles >90 deg, the error could exceed 1 magnitude. For
+phase angles >120 degrees, output values are rounded to the nearest integer to
+indicate error could be large and unknown. For Earth-based observers, the
+estimated dimming due to atmospheric absorption (extinction) is available as
+a separate, requestable quantity.
+
+   Surface brightness is the average airless visual magnitude of a
+square-arcsecond of the illuminated portion of the apparent disk. It is
+computed only if the target radius is known.
+
+   Units: MAGNITUDES & MAGNITUDES PER SQUARE ARCSECOND
+ 
+ 'delta      deldot' =
+   Apparent range ("delta", light-time aberrated) and range-rate ("delta-dot")
+of the target center relative to the observer. A positive "deldot" means the
+target center is moving away from the observer, negative indicates movement
+toward the observer.  Units: AU and KM/S
+ 
+ 'S-O-T /r' =
+   Sun-Observer-Target apparent SOLAR ELONGATION ANGLE seen from the observers'
+location at print-time.
+
+   The '/r' column provides a code indicating the targets' apparent position
+relative to the Sun in the observers' sky, as described below:
+
+   Case A: For an observing location on the surface of a rotating body, that
+body rotational sense is considered:
+
+    /T indicates target TRAILS Sun   (evening sky: rises and sets AFTER Sun)
+    /L indicates target LEADS Sun    (morning sky: rises and sets BEFORE Sun)
+
+   Case B: For an observing point that does not have a rotational model (such
+as a spacecraft), the "leading" and "trailing" condition is defined by the
+observers' heliocentric ORBITAL motion:
+
+    * If continuing in the observers' current direction of heliocentric
+       motion would encounter the targets' apparent longitude first, followed
+       by the Sun's, the target LEADS the Sun as seen by the observer.
+
+    * If the Sun's apparent longitude would be encountered first, followed
+       by the targets', the target TRAILS the Sun.
+
+   Two other codes can be output:
+    /* indicates observer is Sun-centered    (undefined)
+    /? Target is aligned with Sun center     (no lead or trail)
+
+   The S-O-T solar elongation angle is numerically the minimum separation
+angle of the Sun and target in the sky in any direction. It does NOT indicate
+the amount of separation in the leading or trailing directions, which would
+be defined along the equator of a spherical coordinate system.
+
+   Units: DEGREES
+ 
+ 'S-T-O' =
+   The Sun-Target-Observer angle; the interior vertex angle at target center
+formed by a vector from the target to the apparent center of the Sun (at
+reflection time on the target) and the apparent vector from target to the
+observer at print-time. Slightly different from true PHASE ANGLE (requestable
+separately) at the few arcsecond level in that it includes stellar aberration
+on the down-leg from target to observer.  Units: DEGREES
+ 
+ 'Sky_motion  Sky_mot_PA  RelVel-ANG' =
+  Total apparent angular rate of the target in the plane-of-sky. "Sky_mot_PA"
+is the position angle of the target's direction of motion in the plane-of-sky,
+measured counter-clockwise from the apparent of-date north pole direction.
+"RelVel-ANG" is the flight path angle of the target's relative motion with
+respect to the observer's line-of-sight, in the range [-90,+90], where positive
+values indicate motion away from the observer, negative values are toward the
+observer:
+
+  -90 = target is moving directly toward the observer
+    0 = target is moving at right angles to the observer's line-of-sight
+  +90 = target is moving directly away from the observer
+
+UNITS:  ARCSECONDS/MINUTE, DEGREES, DEGREES
+ 
+ 'Lun_Sky_Brt  sky_SNR' =
+  Sky brightness due to moonlight scattered by Earth's atmosphere at the
+target's position in the sky. "sky_SNR" is the visual signal-to-noise ratio
+(SNR) of the target's surface brightness relative to background sky. Output
+only for topocentric Earth observers when both the Moon and target are above
+the local horizon and the Sun is in astronomical twilight (or further) below
+the horizon, and the target is not the Moon or Sun. If all conditions are
+not met, "n.a." is output. Galactic brightness, local sky light-pollution
+and weather are NOT considered. Lunar opposition surge is considered. The
+value returned is accurate under ideal conditions at the approximately 8-23%
+level, so is a useful but not definitive value.
+
+  If the target-body radius is also known, "sky_SNR" is output. This is the
+approximate visual signal-to-noise ratio of the target's brightness divided
+by lunar sky brightness. When sky_SNR < 1, the target is dimmer than the
+ideal moonlight-scattering background sky, so unlikely to be detectable at
+visual wavelengths. In practice, visibility requires sky_SNR > 1 and a
+detector sensitive enough to reach the target's magnitude, even if it isn't
+washed out by moonlight. When relating magnitudes and brightness values,
+keep in mind their logarithmic relationship m2-m1 = -2.5*log_10(b2/b1).
+
+  UNITS: VISUAL MAGNITUDES / ARCSECOND^2, and unitless ratio
+
+Computations by ...
+
+    Solar System Dynamics Group, Horizons On-Line Ephemeris System
+    4800 Oak Grove Drive, Jet Propulsion Laboratory
+    Pasadena, CA  91109   USA
+
+    General site: https://ssd.jpl.nasa.gov/
+    Mailing list: https://ssd.jpl.nasa.gov/email_list.html
+    System news : https://ssd.jpl.nasa.gov/horizons/news.html
+    User Guide  : https://ssd.jpl.nasa.gov/horizons/manual.html
+    Connect     : browser        https://ssd.jpl.nasa.gov/horizons/app.html#/x
+                  API            https://ssd-api.jpl.nasa.gov/doc/horizons.html
+                  command-line   telnet ssd.jpl.nasa.gov 6775
+                  e-mail/batch   https://ssd.jpl.nasa.gov/ftp/ssd/hrzn_batch.txt
+                  scripts        https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS
+    Author      : Jon.D.Giorgini@jpl.nasa.gov
+
+******************************************************************************************************************************************************************************
