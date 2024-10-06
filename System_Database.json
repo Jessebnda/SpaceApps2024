@@ -1,6 +1,8 @@
 [
     {
         "name": "Sun",
+        "type": "star",
+        "position": 0,
         "Vol. Mean Radius (km)": "695700",
         "Density (g cm^-3)": "1.408",
         "Mass x10^30 (kg)": "1.989",
@@ -17,6 +19,7 @@
         "Mass ratio (Sun/planet)": "N/A",
         "Moment of Inertia": "N/A",
         "Equatorial gravity (m/s^2)": "274.0",
+        "Atmospheric pressure (bar)": "N/A",
         "Max. angular diameter (arcsec)": "32.0",
         "Mean Temperature (K)": "5778",
         "Visual mag. V(1,0)": "-26.74",
@@ -43,51 +46,9 @@
         }
     },
     {
-        "name": "Jupiter",
-        "Vol. Mean Radius (km)": "69911+-6",
-        "Density (g/cm^3)": "1.3262 +- .0003",
-        "Mass x10^22 (g)": "189818722 +- 8817",
-        "Equatorial radius (1 bar)": "71492+-4 km",
-        "Polar radius (km)": "66854+-10",
-        "Flattening": "0.06487",
-        "Geometric Albedo": "0.52",
-        "Rocky core mass (Mc/M)": "0.0261",
-        "Sidereal rot. period (III)": "9h 55m 29.711 s",
-        "Sidereal rot. rate (rad/s)": "0.00017585",
-        "Mean solar day, hrs": "~9.9259",
-        "GM (km^3/s^2)": "126686531.900",
-        "GM 1-sigma (km^3/s^2)": "+- 1.2732",
-        "Equatorial gravity (m/s^2)": "24.79",
-        "Polar gravity (m/s^2)": "28.34",
-        "Visual mag. V(1,0)": "-9.40",
-        "Visual mag. (opposition)": "-2.70",
-        "Obliquity to orbit": "3.13 deg",
-        "Sidereal orbital period (y)": "11.861982204",
-        "Sidereal orbital period (d)": "4332.589",
-        "Mean orbital speed (km/s)": "13.0697",
-        "Atmospheric temperature (1 bar)": "165+-5 K",
-        "Escape speed (km/s)": "59.5",
-        "A_roche(ice)/Rp": "2.76",
-        "Hill's sphere radius (Rp)": "740",
-        "Solar Constant (W/m^2)": {
-            "Perihelion": "56",
-            "Aphelion": "46",
-            "Mean": "51"
-        },
-        "Maximum Planetary IR (W/m^2)": {
-            "Perihelion": "13.7",
-            "Aphelion": "13.4",
-            "Mean": "13.6"
-        },
-        "Minimum Planetary IR (W/m^2)": {
-            "Perihelion": "13.7",
-            "Aphelion": "13.4",
-            "Mean": "13.6"
-        }
-    },
-    
-    {
         "name": "Mercury",
+        "type": "planet",
+        "position": 1,
         "Vol. Mean Radius (km)": "2439.4+-0.1",
         "Density (g cm^-3)": "5.427",
         "Mass x10^23 (kg)": "3.302",
@@ -131,90 +92,9 @@
         }
     },
     {
-        "name": "Mars",
-        "Vol. Mean Radius (km)": "3389.92+-0.04",
-        "Density (g cm^-3)": "3.933(5+-4)",
-        "Mass x10^23 (kg)": "6.4171",
-        "Volume (x10^10 km^3)": "16.318",
-        "Sidereal rot. period (d)": "24.622962 hr",
-        "Sid. rot. rate (rad/s)": "0.0000708822",
-        "Mean solar day (d)": "88775.24415 s",
-        "Core radius (km)": "~1700",
-        "Geometric Albedo": "0.150",
-        "GM (km^3/s^2)": "42828.375214",
-        "Equatorial radius, Re (km)": "3396.19",
-        "GM 1-sigma (km^3/s^2)": "+- 0.00028",
-        "Mass ratio (Sun/planet)": "3098703.59",
-        "Moment of Inertia": "",
-        "Equatorial gravity (m/s^2)": "3.71",
-        "Atmospheric pressure (bar)": "0.0056",
-        "Max. angular diameter (arcsec)": "17.9",
-        "Mean Temperature (K)": "210",
-        "Visual mag. V(1,0)": "-1.52",
-        "Obliquity to orbit": "25.19 deg",
-        "Hill's sphere radius (Rp)": "319.8",
-        "Sidereal orbital period (y)": "1.88081578",
-        "Mean orbital velocity (km/s)": "24.13",
-        "Sidereal orbital period (d)": "686.98",
-        "Escape velocity (km/s)": "5.027",
-        "Solar Constant (W/m^2)": {
-            "Perihelion": "717",
-            "Aphelion": "493",
-            "Mean": "589"
-        },
-        "Maximum Planetary IR (W/m^2)": {
-            "Perihelion": "470",
-            "Aphelion": "315",
-            "Mean": "390"
-        },
-        "Minimum Planetary IR (W/m^2)": {
-            "Perihelion": "30",
-            "Aphelion": "30",
-            "Mean": "30"
-        }
-    },
-    {
-        "name": "Uranus",
-        "Vol. Mean Radius (km)": "25362+-12",
-        "Density (g cm^-3)": "1.271",
-        "Mass x10^24 (kg)": "86.813",
-        "Equat. radius (km)": "25559+-4",
-        "Polar radius (km)": "24973+-20",
-        "Sidereal rot. period (h)": "17.24+-0.01",
-        "Sid. rot. rate (rad/s)": "-0.000101237",
-        "Mean solar day (h)": "~17.24",
-        "Core mass (Mc/M)": "0.0012",
-        "Geometric Albedo": "0.51",
-        "GM (km^3/s^2)": "5793951.256",
-        "Equatorial gravity (m/s^2)": "8.87",
-        "Moment of Inertia": "",
-        "Visual mag. V(1,0)": "-7.11",
-        "Obliquity to orbit": "97.77 deg",
-        "Hill's sphere radius (Rp)": "2700",
-        "Sidereal orbital period (y)": "84.0120465",
-        "Mean orbital velocity (km/s)": "6.8",
-        "Sidereal orbital period (d)": "30685.4",
-        "Escape velocity (km/s)": "21.3",
-        "Solar Constant (W/m^2)": {
-            "Perihelion": "4.09",
-            "Aphelion": "3.39",
-            "Mean": "3.71"
-        },
-        "Maximum Planetary IR (W/m^2)": {
-            "Perihelion": "0.72",
-            "Aphelion": "0.55",
-            "Mean": "0.63"
-        },
-        "Minimum Planetary IR (W/m^2)": {
-            "Perihelion": "0.72",
-            "Aphelion": "0.55",
-            "Mean": "0.63"
-        }
-    },
-    
-    
-    {
         "name": "Venus",
+        "type": "planet",
+        "position": 2,
         "Vol. Mean Radius (km)": "6051.8+-0.1",
         "Density (g cm^-3)": "5.204",
         "Mass x10^23 (kg)": "48.685",
@@ -258,7 +138,99 @@
         }
     },
     {
+        "name": "Mars",
+        "type": "planet",
+        "position": 4,
+        "Vol. Mean Radius (km)": "3389.92+-0.04",
+        "Density (g cm^-3)": "3.933(5+-4)",
+        "Mass x10^23 (kg)": "6.4171",
+        "Volume (x10^10 km^3)": "16.318",
+        "Sidereal rot. period (d)": "24.622962 hr",
+        "Sid. rot. rate (rad/s)": "0.0000708822",
+        "Mean solar day (d)": "88775.24415 s",
+        "Core radius (km)": "~1700",
+        "Geometric Albedo": "0.150",
+        "GM (km^3/s^2)": "42828.375214",
+        "Equatorial radius, Re (km)": "3396.19",
+        "GM 1-sigma (km^3/s^2)": "+- 0.00028",
+        "Mass ratio (Sun/planet)": "3098703.59",
+        "Moment of Inertia": "",
+        "Equatorial gravity (m/s^2)": "3.71",
+        "Atmospheric pressure (bar)": "0.0056",
+        "Max. angular diameter (arcsec)": "17.9",
+        "Mean Temperature (K)": "210",
+        "Visual mag. V(1,0)": "-1.52",
+        "Obliquity to orbit": "25.19 deg",
+        "Hill's sphere radius (Rp)": "319.8",
+        "Sidereal orbital period (y)": "1.88081578",
+        "Mean orbital velocity (km/s)": "24.13",
+        "Sidereal orbital period (d)": "686.98",
+        "Escape velocity (km/s)": "5.027",
+        "Solar Constant (W/m^2)": {
+            "Perihelion": "717",
+            "Aphelion": "493",
+            "Mean": "589"
+        },
+        "Maximum Planetary IR (W/m^2)": {
+            "Perihelion": "470",
+            "Aphelion": "315",
+            "Mean": "390"
+        },
+        "Minimum Planetary IR (W/m^2)": {
+            "Perihelion": "30",
+            "Aphelion": "30",
+            "Mean": "30"
+        }
+    },
+    {
+        "name": "Jupiter",
+        "type": "planet",
+        "position": 5,
+        "Vol. Mean Radius (km)": "69911+-6",
+        "Density (g/cm^3)": "1.3262 +- .0003",
+        "Mass x10^22 (g)": "189818722 +- 8817",
+        "Equatorial radius (1 bar)": "71492+-4 km",
+        "Polar radius (km)": "66854+-10",
+        "Flattening": "0.06487",
+        "Geometric Albedo": "0.52",
+        "Rocky core mass (Mc/M)": "0.0261",
+        "Sidereal rot. period (III)": "9h 55m 29.711 s",
+        "Sidereal rot. rate (rad/s)": "0.00017585",
+        "Mean solar day, hrs": "~9.9259",
+        "GM (km^3/s^2)": "126686531.900",
+        "GM 1-sigma (km^3/s^2)": "+- 1.2732",
+        "Equatorial gravity (m/s^2)": "24.79",
+        "Polar gravity (m/s^2)": "28.34",
+        "Visual mag. V(1,0)": "-9.40",
+        "Visual mag. (opposition)": "-2.70",
+        "Obliquity to orbit": "3.13 deg",
+        "Sidereal orbital period (y)": "11.861982204",
+        "Sidereal orbital period (d)": "4332.589",
+        "Mean orbital speed (km/s)": "13.0697",
+        "Atmospheric temperature (1 bar)": "165+-5 K",
+        "Escape speed (km/s)": "59.5",
+        "A_roche(ice)/Rp": "2.76",
+        "Hill's sphere radius (Rp)": "740",
+        "Solar Constant (W/m^2)": {
+            "Perihelion": "56",
+            "Aphelion": "46",
+            "Mean": "51"
+        },
+        "Maximum Planetary IR (W/m^2)": {
+            "Perihelion": "13.7",
+            "Aphelion": "13.4",
+            "Mean": "13.6"
+        },
+        "Minimum Planetary IR (W/m^2)": {
+            "Perihelion": "13.7",
+            "Aphelion": "13.4",
+            "Mean": "13.6"
+        }
+    },
+    {
         "name": "Saturn",
+        "type": "planet",
+        "position": 6,
         "Vol. Mean Radius (km)": "58232+-6",
         "Density (g cm^-3)": "0.687+-0.001",
         "Mass x10^26 (kg)": "5.6834",
@@ -297,7 +269,49 @@
         }
     },
     {
+        "name": "Uranus",
+        "type": "planet",
+        "position": 7,
+        "Vol. Mean Radius (km)": "25362+-12",
+        "Density (g cm^-3)": "1.271",
+        "Mass x10^24 (kg)": "86.813",
+        "Equat. radius (km)": "25559+-4",
+        "Polar radius (km)": "24973+-20",
+        "Sidereal rot. period (h)": "17.24+-0.01",
+        "Sid. rot. rate (rad/s)": "-0.000101237",
+        "Mean solar day (h)": "~17.24",
+        "Core mass (Mc/M)": "0.0012",
+        "Geometric Albedo": "0.51",
+        "GM (km^3/s^2)": "5793951.256",
+        "Equatorial gravity (m/s^2)": "8.87",
+        "Moment of Inertia": "",
+        "Visual mag. V(1,0)": "-7.11",
+        "Obliquity to orbit": "97.77 deg",
+        "Hill's sphere radius (Rp)": "2700",
+        "Sidereal orbital period (y)": "84.0120465",
+        "Mean orbital velocity (km/s)": "6.8",
+        "Sidereal orbital period (d)": "30685.4",
+        "Escape velocity (km/s)": "21.3",
+        "Solar Constant (W/m^2)": {
+            "Perihelion": "4.09",
+            "Aphelion": "3.39",
+            "Mean": "3.71"
+        },
+        "Maximum Planetary IR (W/m^2)": {
+            "Perihelion": "0.72",
+            "Aphelion": "0.55",
+            "Mean": "0.63"
+        },
+        "Minimum Planetary IR (W/m^2)": {
+            "Perihelion": "0.72",
+            "Aphelion": "0.55",
+            "Mean": "0.63"
+        }
+    },
+    {
         "name": "Neptune",
+        "type": "planet",
+        "position": 8,
         "Vol. Mean Radius (km)": "24624+-21",
         "Density (g cm^-3)": "1.638",
         "Mass x10^24 (kg)": "102.409",
@@ -339,8 +353,11 @@
             "Aphelion": "0.52",
             "Mean": "0.52"
         }
-    },{
+    },
+    {
         "name": "Pluto",
+        "type": "dwarf planet",
+        "position": 9,
         "Vol. Mean Radius (km)": "1188.3+-1.6",
         "Density (g cm^-3)": "1.86",
         "Mass x10^22 (kg)": "1.307+-0.018",
@@ -385,6 +402,8 @@
     },
     {
         "name": "Hale-Bopp",
+        "type": "comet",
+        "position": 10,
         "Vol. Mean Radius (km)": "60.0",
         "Density (g cm^-3)": "0.6",
         "Mass x10^16 (kg)": "1.3",
@@ -426,8 +445,11 @@
             "Aphelion": "N/A",
             "Mean": "N/A"
         }
-    },{
+    },
+    {
         "name": "Halley",
+        "type": "comet",
+        "position": 11,
         "Vol. Mean Radius (km)": "11",
         "Density (g cm^-3)": "0.6",
         "Mass x10^16 (kg)": "2.2",
@@ -469,8 +491,11 @@
             "Aphelion": "N/A",
             "Mean": "N/A"
         }
-    },{
+    },
+    {
         "name": "Comet NEOWISE (C/2020 F3)",
+        "type": "comet",
+        "position": 12,
         "EPOCH": "2459036.5",
         "EC": "0.9991780262531292",
         "QR (au)": "0.2946512493809196",
@@ -491,29 +516,11 @@
         "RAD": "n.a.",
         "M1": "12.1",
         "PHCOF": "n.a."
-    },{
-        "name": "NEOWISE (C/2020 F3)",
-        "EPOCH": "2459036.5",
-        "EC": "0.9991780262531292",
-        "QR (au)": "0.2946512493809196",
-        "TP": "2459034.1788980444",
-        "OM": "61.01042818536988",
-        "W": "37.2786584481257",
-        "IN (deg)": "128.9375027594809",
-        "A (au)": "358.4679565529321",
-        "MA": "0.0003370720801209784",
-        "ADIST (au)": "716.6412618564833",
-        "PER (yrs)": "6787.0916303823",
-        "N": "0.000145221",
-        "ANGMOM": "0.013202656",
-        "DAN": "0.32816",
-        "DDN": "2.8741",
-        "MOID": "0.36251399",
-        "GM": "n.a.",
-        "RAD": "n.a.",
-        "M1": "12.1"
-    },{
+    },
+    {
         "name": "Catalina (C/2013 US10)",
+        "type": "comet",
+        "position": 13,
         "EPOCH": "2457349.5",
         "EC": "1.000280111752132",
         "QR (au)": "0.8229694432560084",
@@ -533,10 +540,4 @@
         "RAD": "n.a.",
         "M1": "8.4"
     }
-    
-    
-    
-    
-    
-    
 ]
