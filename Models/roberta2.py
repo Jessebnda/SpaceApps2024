@@ -711,6 +711,7 @@ There was widespread outrage on behalf of the demoted planet. Textbooks were upd
 On July 14, 2015, NASA’s New Horizons spacecraft made its historic flight through the Pluto system – providing the first close-up images of Pluto and its moons and collecting other data that has transformed our understanding of these mysterious worlds on the solar system’s outer frontier.
 Dwarf planet Ceres is closer to home. Ceres is the largest object in the asteroid belt between Mars and Jupiter, and it's the only dwarf planet located in the inner solar system. Like Pluto, Ceres also was once classified as a planet. Ceres was the first dwarf planet to be visited by a spacecraft – NASA’s Dawn mission. 
 
+<<<<<<< HEAD:roberta2.py
 
 Our Moon shares a name with all moons simply because people didn't know other moons existed until Galileo Galilei discovered four moons orbiting Jupiter in 1610. In Latin, the Moon was called Luna, which is the main adjective for all things Moon-related: lunar.
 With a radius of about 1,080 miles (1,740 kilometers), the Moon is less than a third of the width of Earth. If Earth were the size of a nickel, the Moon would be about as big as a coffee bean.
@@ -912,3 +913,7 @@ while True:
 
     # Imprimir la respuesta del modelo
     print("Chatbot:", answer)
+=======
+# Save the fine-tuned model
+trainer.save_model("./fine_tuned_Roberta")
+>>>>>>> b96a1e24ee7916d42491176b7e63995aa9266908:Models/roberta2.py
