@@ -559,57 +559,54 @@
       "k2": "n.a.",
       "PHCOF": "n.a."
     }
-  },
-
-
-{
-  "name": "Catalina (C/2013 US10)",
-  "Rec #": "90004223 (+COV)",
-  "solution_date": "2021-Apr-15_23:32:42",
-  "observation_count": "4396 (2013-2017)",
-  "epoch": "2457349.5 (2015-Nov-23.0000000 TDB)",
-  "orbital_elements": {
-    "residual_rms": "n.a.",
-    "eccentricity": 1.000280111752132,
-    "perihelion_distance": 0.8229694432560084,
-    "time_of_perihelion_passage": 2457342.2216403401,
-    "longitude_of_ascending_node": 186.1445801306016,
-    "argument_of_perihelion": 340.3587540701534,
-    "inclination": 148.8782970590471,
-    "semi_major_axis": -2938.003982310757,
-    "mean_anomaly": 4.5046288727995e-5,
-    "aphelion_distance": 9.999999E99,
-    "orbital_period": 9.999999E99,
-    "mean_motion": 6.189e-6,
-    "angular_momentum": 0.022070832,
-    "ascending_node_distance": 0.84763,
-    "descending_node_distance": 28.42121,
-    "longitude": 203.1339534,
-    "latitude": -10.0048288,
-    "minimum_orbit_intersection_distance": 0.13859899,
-    "last_perihelion_passage": "2015-Nov-15.7216403401"
-  },
-  "physical_parameters": {
-    "GM": "n.a.",
-    "radius": "n.a.",
-    "M1": 8.4,
-    "M2": "n.a.",
-    "k1": 6.5,
-    "k2": "n.a.",
-    "PHCOF": "n.a."
-  },
-  "non_gravitational_force_model": {
-    "AMRAT": 0,
-    "DT": 0,
-    "A1": 7.573968172073e-9,
-    "A2": 6.249690894037e-11,
-    "A3": 1.621151342988e-10
-  },
-  "standard_model": {
-    "ALN": 0.1112620426,
-    "NK": 4.6142,
-    "NM": 2.15,
-    "NN": 5.093,
-    "R0": 2.808
-  },
-]
+  },{
+    "name": "Catalina (C/2013 US10)",
+    "Rec #": "90004223 (+COV)",
+    "solution_date": "2021-Apr-15_23:32:42",
+    "observation_count": "4396 (2013-2017)",
+    "epoch": "2457349.5 (2015-Nov-23.0000000 TDB)",
+    "orbital_elements": {
+      "residual_rms": "n.a.",
+      "eccentricity": 1.000280111752132,
+      "perihelion_distance": 0.8229694432560084,
+      "time_of_perihelion_passage": 2457342.2216403401,
+      "longitude_of_ascending_node": 186.1445801306016,
+      "argument_of_perihelion": 340.3587540701534,
+      "inclination": 148.8782970590471,
+      "semi_major_axis": -2938.003982310757,
+      "NK": 4.6142,
+      "NM": 2.15,
+      "NN": 5.093,
+      "R0": 2.808,
+      "mean_anomaly": 4.5046288727995e-5,
+      "aphelion_distance": 9.999999E99,
+      "orbital_period": 9.999999E99,
+      "mean_motion": 6.189e-6,
+      "angular_momentum": 0.022070832,
+      "ascending_node_distance": 0.84763,
+      "descending_node_distance": 28.42121,
+      "longitude": 203.1339534,
+      "latitude": -10.0048288,
+      "minimum_orbit_intersection_distance": 0.13859899,
+      "last_perihelion_passage": "2015-Nov-15.7216403401"
+    },
+    "physical_parameters": {
+      "GM": "n.a.",
+      "radius": "n.a.",
+      "M1": 8.4,
+      "M2": "n.a.",
+      "k1": 6.5,
+      "k2": "n.a.",
+      "PHCOF": "n.a."
+    },
+    "non_gravitational_force_model": {
+      "AMRAT": 0,
+      "DT": 0,
+      "A1": 7.573968172073e-9,
+      "A2": 6.249690894037e-11,
+      "A3": 1.621151342988e-10
+    },
+    "standard_model": {
+      "ALN": 0.1112620426
+    }
+  }]

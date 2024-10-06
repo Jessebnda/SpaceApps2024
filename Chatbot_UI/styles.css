@@ -1,0 +1,148 @@
+/* Estilo general */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Contenedor del chat */
+
+.chat-container {
+    width: 350px;
+    height: 500px;
+    position: fixed;
+    bottom: 20px;
+    /* Ajusta la posición según tus preferencias */
+    right: 20px;
+    background-color: #000;
+    border: 1px solid #333;
+    border-radius: 5px;
+    display: none;
+    /* Oculto por defecto */
+    flex-direction: column;
+    overflow: hidden;
+}
+
+
+/* Encabezado del chat */
+
+.chat-header {
+    display: flex;
+    justify-content: flex-end;
+    padding: 5px;
+    background-color: #000;
+}
+
+.minimize-button {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 24px;
+    cursor: pointer;
+    outline: none;
+}
+
+
+/* Ventana de mensajes */
+
+.chat-window {
+    flex: 1;
+    padding: 10px;
+    overflow-y: auto;
+}
+
+
+/* Contenedor de entrada de texto */
+
+.input-container {
+    display: flex;
+    border-top: 1px solid #333;
+}
+
+#user-input {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    background-color: #000;
+    color: #fff;
+    outline: none;
+    font-size: 14px;
+    /* Texto más pequeño */
+}
+
+#send-button,
+#clear-button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+}
+
+#clear-button {
+    background-color: #444;
+    /* Color diferente para el botón Clear */
+}
+
+
+/* Mensajes */
+
+.message {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    /* Texto más pequeño */
+    line-height: 1.4;
+    word-break: break-word;
+    text-align: justify;
+    max-width: 90%;
+    /* Para que no ocupen todo el ancho */
+}
+
+.user-message {
+    align-self: flex-end;
+    border: 1px solid #555;
+    /* Contorno gris claro */
+    background-color: #111;
+}
+
+.bot-message {
+    align-self: flex-start;
+    border: 1px solid #444;
+    /* Contorno gris oscuro */
+    background-color: #222;
+}
+
+
+/* Botón para expandir el chat */
+
+.chat-toggle-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 60px;
+    /* Ajusta el ancho según tus preferencias */
+    height: 60px;
+    /* Ajusta la altura según tus preferencias */
+    padding: 0;
+    border: none;
+    background-color: #333;
+    color: #fff;
+    border-radius: 50%;
+    cursor: pointer;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.chat-toggle-button img {
+    width: 50%;
+    height: 50%;
+    object-fit: contain;
+}
