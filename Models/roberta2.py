@@ -913,7 +913,7 @@ while True:
 
     # Imprimir la respuesta del modelo
     print("Chatbot:", answer)
-=======
+
 # Save the fine-tuned model
 trainer.save_model("./fine_tuned_Roberta")
->>>>>>> b96a1e24ee7916d42491176b7e63995aa9266908:Models/roberta2.py
+

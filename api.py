@@ -345,7 +345,8 @@ Resonances: The mean distances of the asteroids are not uniformly distributed bu
     "Mercury Solar Constant Aphelion": "6278 W/m²",
     "Mercury Solar Constant Mean": "9126 W/m²",
 
-    "Mars mass": "6.4171 kg",
+    "Mars name": "Mars",
+    "Mars mass": "6.4171 x10^23 kg ",
     "Mars Vol. Mean Radius": "3389.92+-0.04 km",
     "Mars Density": "3.933 5+-4 g cm^-3",
     "Mars Volume": "16.318 x10^10 km^3",
