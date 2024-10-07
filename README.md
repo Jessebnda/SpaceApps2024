@@ -8,6 +8,6 @@ Steps to run chatbot:
 -(different terminal) 
 # Python 3
  "python -m http.server 8000"
- -activate live server
+ -html -> activate live server
 
 
